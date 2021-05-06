@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/React_Products_Task/static/css/main.bd00ae83.chunk.css",
-    "main.js": "/React_Products_Task/static/js/main.6549df25.chunk.js",
-    "main.js.map": "/React_Products_Task/static/js/main.6549df25.chunk.js.map",
-    "runtime-main.js": "/React_Products_Task/static/js/runtime-main.766b7aae.js",
-    "runtime-main.js.map": "/React_Products_Task/static/js/runtime-main.766b7aae.js.map",
-    "static/js/2.70542f75.chunk.js": "/React_Products_Task/static/js/2.70542f75.chunk.js",
-    "static/js/2.70542f75.chunk.js.map": "/React_Products_Task/static/js/2.70542f75.chunk.js.map",
-    "static/js/3.af10d0c5.chunk.js": "/React_Products_Task/static/js/3.af10d0c5.chunk.js",
-    "static/js/3.af10d0c5.chunk.js.map": "/React_Products_Task/static/js/3.af10d0c5.chunk.js.map",
+    "main.css": "/React_Products_Task/static/css/main.3c3d5d40.chunk.css",
+    "main.js": "/React_Products_Task/static/js/main.c9bc08ab.chunk.js",
+    "main.js.map": "/React_Products_Task/static/js/main.c9bc08ab.chunk.js.map",
+    "runtime-main.js": "/React_Products_Task/static/js/runtime-main.bfe22256.js",
+    "runtime-main.js.map": "/React_Products_Task/static/js/runtime-main.bfe22256.js.map",
+    "static/js/2.90cb7038.chunk.js": "/React_Products_Task/static/js/2.90cb7038.chunk.js",
+    "static/js/2.90cb7038.chunk.js.map": "/React_Products_Task/static/js/2.90cb7038.chunk.js.map",
+    "static/js/3.a06f46dc.chunk.js": "/React_Products_Task/static/js/3.a06f46dc.chunk.js",
+    "static/js/3.a06f46dc.chunk.js.map": "/React_Products_Task/static/js/3.a06f46dc.chunk.js.map",
     "index.html": "/React_Products_Task/index.html",
-    "static/css/main.bd00ae83.chunk.css.map": "/React_Products_Task/static/css/main.bd00ae83.chunk.css.map",
-    "static/js/2.70542f75.chunk.js.LICENSE.txt": "/React_Products_Task/static/js/2.70542f75.chunk.js.LICENSE.txt"
+    "static/css/main.3c3d5d40.chunk.css.map": "/React_Products_Task/static/css/main.3c3d5d40.chunk.css.map",
+    "static/js/2.90cb7038.chunk.js.LICENSE.txt": "/React_Products_Task/static/js/2.90cb7038.chunk.js.LICENSE.txt",
+    "static/media/rocket.4bf2b4a8.png": "/React_Products_Task/static/media/rocket.4bf2b4a8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.766b7aae.js",
-    "static/js/2.70542f75.chunk.js",
-    "static/css/main.bd00ae83.chunk.css",
-    "static/js/main.6549df25.chunk.js"
+    "static/js/runtime-main.bfe22256.js",
+    "static/js/2.90cb7038.chunk.js",
+    "static/css/main.3c3d5d40.chunk.css",
+    "static/js/main.c9bc08ab.chunk.js"
   ]
 }
